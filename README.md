@@ -1,4 +1,4 @@
-# ocr1
+# Flutter web camera
 
 A new Flutter project.
 
